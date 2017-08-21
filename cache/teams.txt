@@ -1,0 +1,633 @@
+Real Madrid Liga BBVA 5
+FC Barcelona Liga BBVA 5
+Juventus Serie A TIM 5
+FC Bayern Bundesliga 5
+Chelsea Barclays PL 5
+PSG Ligue 1 5
+Manchester Utd Barclays PL 5
+Atlético Madrid Liga BBVA 5
+Manchester City Barclays PL 5
+Arsenal Barclays PL 5
+Bor. Dortmund Bundesliga 4.5
+Spurs Barclays PL 4.5
+Roma Serie A TIM 4.5
+Liverpool Barclays PL 4.5
+Napoli Serie A TIM 4.5
+Inter Serie A TIM 4.5
+Sevilha FC Liga BBVA 4.5
+Everton Barclays PL 4.5
+Villarreal CF Liga BBVA 4.5
+Bayer 04 Bundesliga 4.5
+VfL Wolfsburg Bundesliga 4.5
+Lazio Serie A TIM 4.5
+Bor. M&#39;gladbach Bundesliga 4.5
+Milan Serie A TIM 4.5
+Athletic Bilbao Liga BBVA 4.5
+AS Mónaco Ligue 1 4.5
+SL Benfica Liga NOS 4.5
+FC Porto Liga NOS 4.5
+FC Schalke 04 Bundesliga 4.5
+Fiorentina Serie A TIM 4
+Sporting CP Liga NOS 4
+Olym. Lyonnais Ligue 1 4
+OGC Nice Ligue 1 4
+Celta Vigo Liga BBVA 4
+Zenit Liga Russa 4
+Real Sociedad Liga BBVA 4
+Leicester City Barclays PL 4
+West Ham Barclays PL 4
+Valência CF Liga BBVA 4
+Beşiktaş Süper Lig 4
+Southampton Barclays PL 4
+Stoke City Barclays PL 4
+Olym. Marselha Ligue 1 4
+Fenerbahçe Süper Lig 4
+Hertha BSC Bundesliga 4
+Crystal Palace Barclays PL 4
+Watford Barclays PL 4
+Torino Serie A TIM 4
+1899 Hoffenheim Bundesliga 4
+Spartak Moscovo Liga Russa 4
+RCD Espanyol Liga BBVA 4
+1. FC Colónia Bundesliga 4
+Swansea City Barclays PL 4
+UD Las Palmas Liga BBVA 4
+Málaga CF Liga BBVA 4
+Ajax Eredivisie 4
+Shakhtar Donetsk Resto do Mundo 4
+Sunderland Barclays PL 4
+Real Betis Liga BBVA 4
+SD Eibar Liga BBVA 4
+Werder Bremen Bundesliga 4
+RC Deportivo Liga BBVA 4
+FC Krasnodar Liga Russa 4
+Giron. Bordéus Ligue 1 4
+FC Augsburg Bundesliga 4
+PSV Eredivisie 4
+Galatasaray Süper Lig 4
+Sassuolo Serie A TIM 4
+Chievo Verona Serie A TIM 4
+Feyenoord Eredivisie 4
+AS Saint-Étienne Ligue 1 4
+Udinese Serie A TIM 4
+CSKA de Moscovo Liga Russa 4
+Lokomotiv Mosco. Liga Russa 4
+West Brom Barclays PL 4
+Tigres LIGA Bancomer MX 4
+Medipol Başakşehir Süper Lig 4
+1. FSV Mainz 05 Bundesliga 4
+Rubin Kazan Liga Russa 4
+Sampdoria Serie A TIM 4
+Hull City Barclays PL 4
+Atalanta Serie A TIM 4
+Bolonha Serie A TIM 4
+Middlesbrough Barclays PL 4
+Hamburgo SV Bundesliga 4
+RB Leipzig Bundesliga 4
+LOSC Lille Ligue 1 4
+SC Braga Liga NOS 4
+CD Leganés Liga BBVA 4
+Génova Serie A TIM 4
+Deport. Alavés Liga BBVA 4
+Eint. Frankfurt Bundesliga 4
+RSC Anderlecht Liga Belga 3.5
+Granada CF Liga BBVA 3.5
+FC Basel Raiffeisen SL 3.5
+Stade Rennais Ligue 1 3.5
+Monterrey LIGA Bancomer MX 3.5
+River Plate Primera División 3.5
+Levante UD Liga Adelante 3.5
+Montpellier HSC Ligue 1 3.5
+Club Brugge Liga Belga 3.5
+FC Rostov Liga Russa 3.5
+V. Guimarães Liga NOS 3.5
+EA Guingamp Ligue 1 3.5
+Newcastle Utd FL Championship 3.5
+Toulouse FC Ligue 1 3.5
+San Lorenzo Primera División 3.5
+Sporting Gijón Liga BBVA 3.5
+Olympiakos CFP Resto do Mundo 3.5
+Bournemouth Barclays PL 3.5
+Burnley Barclays PL 3.5
+Cagliari Serie A TIM 3.5
+FC Nantes Ligue 1 3.5
+FC Lorient Ligue 1 3.5
+Boca Juniors Primera División 3.5
+Trabzonspor Süper Lig 3.5
+Panathinaikos Resto do Mundo 3.5
+VfB Estugarda Bundesliga 2 3.5
+Racing Club Primera División 3.5
+CA Osasuna Liga BBVA 3.5
+SC Freiburg Bundesliga 3.5
+Osmanlıspor Süper Lig 3.5
+Lanús Primera División 3.5
+Aston Villa FL Championship 3.5
+Norwich FL Championship 3.5
+SM Caen Ligue 1 3.5
+Independiente Primera División 3.5
+KAA Gent Liga Belga 3.5
+KRC Genk Liga Belga 3.5
+Angers SCO Ligue 1 3.5
+Empoli Serie A TIM 3.5
+FC Metz Ligue 1 3.5
+Standard Liège Liga Belga 3.5
+Legia Warszawa Ekstraklasa 3.5
+América LIGA Bancomer MX 3.5
+Fulham FL Championship 3.5
+PAOK Resto do Mundo 3.5
+Toluca LIGA Bancomer MX 3.5
+Palermo Serie A TIM 3.5
+FC Ingolstadt Bundesliga 3.5
+Hannover 96 Bundesliga 2 3.5
+Celtic Scottish Prem 3.5
+SC Bastia Ligue 1 3.5
+V. Setúbal Liga NOS 3.5
+Leeds United FL Championship 3.5
+Sheffield Wed FL Championship 3.5
+Brighton FL Championship 3.5
+Colo-Colo Camp. Scotiabank 3.5
+Uni. Católica Camp. Scotiabank 3.5
+Atl. Nacional Liga Dimayor 3.5
+AZ Eredivisie 3.5
+Getafe CF Liga Adelante 3.5
+Pescara Serie A TIM 3.5
+FC Utrecht Eredivisie 3.5
+Rio Ave Liga NOS 3.5
+Guadalajara LIGA Bancomer MX 3.5
+Bursaspor Süper Lig 3.5
+FC Copenhaga Alka Superliga 3.5
+SV Darmstadt Bundesliga 3.5
+Antalyaspor Süper Lig 3.5
+U.N.A.M. LIGA Bancomer MX 3.5
+Ind. Santa Fe Liga Dimayor 3.5
+sc Heerenveen Eredivisie 3.5
+Monarcas Morelia LIGA Bancomer MX 3.5
+Portland MLS 3.5
+Rosario Central Primera División 3.5
+Kayserispor Süper Lig 3.5
+León LIGA Bancomer MX 3.5
+Tijuana LIGA Bancomer MX 3.5
+Junior Liga Dimayor 3.5
+Al Hilal ALJ League 3.5
+Santos Laguna LIGA Bancomer MX 3.5
+Estudiantes Primera División 3.5
+Dijon FCO Ligue 1 3.5
+Cruz Azul LIGA Bancomer MX 3.5
+CD Tenerife Liga Adelante 3.5
+Terek Grozny Liga Russa 3.5
+Real Valladolid Liga Adelante 3.5
+Vitesse Eredivisie 3.5
+Konyaspor Süper Lig 3.5
+Hellas Verona Serie B 3.5
+Arouca Liga NOS 3.5
+Pachuca LIGA Bancomer MX 3.5
+Derby County FL Championship 3.5
+FC Dallas MLS 3.5
+KV Oostende Liga Belga 3.5
+Uni. de Chile Camp. Scotiabank 3.5
+Grêmio Liga do Brasil 3.5
+A. Minas G. Liga do Brasil 3.5
+Zulte-Waregem Liga Belga 3.5
+Rayo Vallecano Liga Adelante 3.5
+BSC Young Boys Raiffeisen SL 3.5
+Reading FL Championship 3.5
+Palmeiras Liga do Brasil 3.5
+Atlas LIGA Bancomer MX 3.5
+Chaves Liga NOS 3.5
+Wolves FL Championship 3.5
+Deportivo Cali Liga Dimayor 3.5
+Girona CF Liga Adelante 3.5
+Birmingham City FL Championship 3.5
+Botafogo Liga do Brasil 3.5
+Paços Ferreira Liga NOS 3.5
+Sounders FC MLS 3.5
+Boavista Liga NOS 3.5
+Fluminense Liga do Brasil 3.5
+Kaizer Chiefs Resto do Mundo 3.5
+QPR FL Championship 3.5
+Marítimo Liga NOS 3.5
+Atl. Paranaense Liga do Brasil 3.5
+LA Galaxy MLS 3.5
+Internacional Liga do Brasil 3.5
+Al Ahli ALJ League 3
+Toronto FC MLS 3
+Chicago Fire MLS 3
+Columbus Crew SC MLS 3
+Aytemiz Alanyaspor Süper Lig 3
+Real Oviedo Liga Adelante 3
+Bari Serie B 3
+Nott&#39;m Forest FL Championship 3
+Ponte Preta Liga do Brasil 3
+Santa Cruz Liga do Brasil 3
+Karabükspor Süper Lig 3
+Brentford FL Championship 3
+Sp. Charleroi Liga Belga 3
+Millonarios Liga Dimayor 3
+UD Almería Liga Adelante 3
+São Paulo Liga do Brasil 3
+Stade de Reims Ligue 2 3
+Gaziantepspor Süper Lig 3
+Veracruz LIGA Bancomer MX 3
+Querétaro LIGA Bancomer MX 3
+1860 Munique Bundesliga 2 3
+NYCFC MLS 3
+Rosenborg BK Tippeligaen 3
+Akhisarspor Süper Lig 3
+Santos Liga do Brasil 3
+Crotone Serie A TIM 3
+Union Berlin Bundesliga 2 3
+Lech Poznań Ekstraklasa 3
+1 FC Nuremberga Bundesliga 2 3
+Ipswich FL Championship 3
+Braunschweig Bundesliga 2 3
+Cádiz C.F. Liga Adelante 3
+Huddersfield FL Championship 3
+Bristol City FL Championship 3
+Malmö FF Allsvenskan 3
+Figueirense Liga do Brasil 3
+SD Huesca Liga Adelante 3
+Indep. Medellín Liga Dimayor 3
+Carpi Serie B 3
+Santa Fe Primera División 3
+Cardiff City FL Championship 3
+AS Nancy Ligue 1 3
+Kasimpaşa Süper Lig 3
+Sporting KC MLS 3
+Gençlerbirliği Süper Lig 3
+RB Salzburgo Ö. Bundesliga 3
+Belenenses Liga NOS 3
+Real Zaragoza Liga Adelante 3
+Parque Patricios Primera División 3
+Whitecaps FC MLS 3
+Çaykur Rizespor Süper Lig 3
+Banfield Primera División 3
+NY Red Bulls MLS 3
+Newell&#39;s Primera División 3
+FC Sion Raiffeisen SL 3
+Chiapas LIGA Bancomer MX 3
+New England MLS 3
+Gimnàstic Liga Adelante 3
+Coritiba Liga do Brasil 3
+Orlando City MLS 3
+Chapecoense Liga do Brasil 3
+Al Nassr ALJ League 3
+Atlético Tucumán Primera División 3
+CF Reus Deportiu Liga Adelante 3
+CD Lugo Liga Adelante 3
+KV Mechelen Liga Belga 3
+KV Kortrijk Liga Belga 3
+Vitória Liga do Brasil 3
+FC Ural Liga Russa 3
+F. Düsseldorf Bundesliga 2 3
+Heracles Almelo Eredivisie 3
+Jeonbuk Hyundai K LEAGUE Classic 3
+Frosinone Serie B 3
+Adanaspor Süper Lig 3
+FC Ufa Liga Russa 3
+FC St. Pauli Bundesliga 2 3
+Elche CF Liga Adelante 3
+FC Groningen Eredivisie 3
+CD Numancia Liga Adelante 3
+AD Alcorcón Liga Adelante 3
+Lechia Gdańsk Ekstraklasa 3
+Krylya Sovetov Liga Russa 3
+Necaxa LIGA Bancomer MX 3
+Godoy Cruz Primera División 3
+FC Twente Eredivisie 3
+Montreal Impact MLS 3
+Estoril Praia Liga NOS 3
+Moreirense Liga NOS 3
+Cruzeiro Liga do Brasil 3
+CD O&#39;Higgins Camp. Scotiabank 3
+Sint-Truiden Liga Belga 3
+SJ Earthquakes MLS 3
+F. Santa Maria Liga NOS 3
+Urawa Diamonds Japan J1 League (1) 3
+La Spezia Serie B 3
+Houston Dynamo MLS 3
+Greuther Fürth Bundesliga 2 3
+Philadelphia MLS 3
+Cesena Serie B 3
+Suwon Bluewings K LEAGUE Classic 3
+Kashima Antlers Japan J1 League (1) 3
+RCD Maiorca Liga Adelante 3
+Nacional Liga NOS 3
+VfL Bochum Bundesliga 2 3
+Goiás Resto do Mundo 3
+Sport Liga do Brasil 3
+Orlando Pirates Resto do Mundo 3
+Córdoba CF Liga Adelante 3
+Jeju United K LEAGUE Classic 3
+Preston FL Championship 3
+Sevilla Atlét. Liga Adelante 3
+Deportes Tolima Liga Dimayor 3
+Kaiserslautern Bundesliga 2 3
+Rangers Scottish Prem 3
+Willem II Eredivisie 3
+Anzhi Makhachkala Liga Russa 3
+Joinville Resto do Mundo 3
+Criciúma Resto do Mundo 3
+Wigan Athletic FL Championship 3
+G. La Plata Primera División 3
+Atlético Mineiro Liga do Brasil 3
+FC Midtjylland Alka Superliga 3
+Arsenal Tula Liga Russa 3
+Benevento Serie B 2.5
+Vélez Sarsfield Primera División 2.5
+Le Havre AC Ligue 2 2.5
+Kawasaki Front. Japan J1 League (1) 2.5
+Sport. Lokeren Liga Belga 2.5
+Vissel Kobe Japan J1 League (1) 2.5
+Tigre Primera División 2.5
+Novara Serie B 2.5
+Unión Española Camp. Scotiabank 2.5
+Vicenza Serie B 2.5
+Waasl. Beveren Liga Belga 2.5
+Brøndby IF Alka Superliga 2.5
+FC St. Gallen Raiffeisen SL 2.5
+Real Salt Lake MLS 2.5
+Belgrano Primera División 2.5
+AIK Allsvenskan 2.5
+SV Sandhausen Bundesliga 2 2.5
+Arminia Bielefeld Bundesliga 2 2.5
+Dynamo Dresden Bundesliga 2 2.5
+FC Sochaux Ligue 2 2.5
+SK Rapid Viena Ö. Bundesliga 2.5
+RC Lens Ligue 2 2.5
+Blackburn Rovers FL Championship 2.5
+Once Caldas Liga Dimayor 2.5
+Salerno Serie B 2.5
+Uni. Concepción Camp. Scotiabank 2.5
+Wisła Kraków Ekstraklasa 2.5
+Jagiellonia Ekstraklasa 2.5
+Al Ittihad ALJ League 2.5
+PEC Zwolle Eredivisie 2.5
+Tondela Liga NOS 2.5
+D.C. United MLS 2.5
+Vasco da Gama Resto do Mundo 2.5
+Roda JC Eredivisie 2.5
+GFC Ajaccio Ligue 2 2.5
+Kashiwa Reysol Japan J1 League (1) 2.5
+1. FC Heidenheim Bundesliga 2 2.5
+IFK Gotemburgo Allsvenskan 2.5
+Stade Brestois Ligue 2 2.5
+Bolton Football League 1 2.5
+FC Orenburg Liga Russa 2.5
+ES Troyes AC Ligue 2 2.5
+Charlton Ath Football League 1 2.5
+Colorado Rapids MLS 2.5
+CD Mirandés Liga Adelante 2.5
+Sangju Sangmu K LEAGUE Classic 2.5
+Excelsior Eredivisie 2.5
+Avaí Resto do Mundo 2.5
+Karlsruher SC Bundesliga 2 2.5
+Fl. Varela Primera División 2.5
+Ulsan Hyundai K LEAGUE Classic 2.5
+KAS Eupen Liga Belga 2.5
+FC Seoul K LEAGUE Classic 2.5
+Grasshoppers Raiffeisen SL 2.5
+Junín Primera División 2.5
+Hearts Scottish Prem 2.5
+F.C. Tokyo Japan J1 League (1) 2.5
+Atlético Bucaramanga Liga Dimayor 2.5
+AJ Auxerre Ligue 2 2.5
+Spal Serie B 2.5
+Águilas Doradas Liga Dimayor 2.5
+Djurgårdens IF Allsvenskan 2.5
+Nîmes Olympique Ligue 2 2.5
+Gamba Osaka Japan J1 League (1) 2.5
+Melb. Victory Hyundai A-League 2.5
+La Equidad Liga Dimayor 2.5
+KVC Westerlo Liga Belga 2.5
+Austria Wien Ö. Bundesliga 2.5
+Sagan Tosu Japan J1 League (1) 2.5
+Trapani Serie B 2.5
+Brisbane Roar Hyundai A-League 2.5
+Sydney FC Hyundai A-League 2.5
+Barnsley FL Championship 2.5
+Sanfrecce Hiroshima Japan J1 League (1) 2.5
+UCAM Murcia Liga Adelante 2.5
+Sparta R&#39;dam Eredivisie 2.5
+RC Strasbourg Ligue 2 2.5
+IF Elfsborg Allsvenskan 2.5
+CD Palestino Camp. Scotiabank 2.5
+Amkar Perm Liga Russa 2.5
+Puebla LIGA Bancomer MX 2.5
+Depor. Iquique Camp. Scotiabank 2.5
+Molde FK Tippeligaen 2.5
+Kalmar FF Allsvenskan 2.5
+ADO Den Haag Eredivisie 2.5
+Würzburger Kickers Bundesliga 2 2.5
+Perugia Serie B 2.5
+Hammarby IF Allsvenskan 2.5
+Red Star FC Ligue 2 2.5
+Terni Serie B 2.5
+Erzgebirge Aue Bundesliga 2 2.5
+Audax Italiano Camp. Scotiabank 2.5
+Burton Albion FL Championship 2.5
+BK Häcken Allsvenskan 2.5
+Wanderers Camp. Scotiabank 2.5
+CD Antofagasta Camp. Scotiabank 2.5
+IFK Norrköping Allsvenskan 2.5
+Vålerenga Fotball Tippeligaen 2.5
+Odds BK Tippeligaen 2.5
+Sarandí Primera División 2.5
+SK Brann Tippeligaen 2.5
+San Juan Primera División 2.5
+Aberdeen Scottish Prem 2.5
+N.E.C. Eredivisie 2.5
+Pisa Serie B 2.5
+AC Ajaccio Ligue 2 2
+Perth Glory Hyundai A-League 2
+Brisigonza Serie B 2
+Pogoń Szczecin Ekstraklasa 2
+Al. Petrolera Liga Dimayor 2
+Avellino Serie B 2
+CA Talleres Primera División 2
+CD Everton Camp. Scotiabank 2
+Pohang Steelers K LEAGUE Classic 2
+Rotherham Utd FL Championship 2
+SK Sturm Graz Ö. Bundesliga 2
+CD Huachipato Camp. Scotiabank 2
+Cracóvia Ekstraklasa 2
+Zagłębie Lubin Ekstraklasa 2
+Śląsk Wrocław Ekstraklasa 2
+Yokohama F·Marinos Japan J1 League (1) 2
+Borgocalcio Serie B 2
+Sheffield Utd Football League 1 2
+Brescia Serie B 2
+Vercelli Serie B 2
+Deportes Temuco Camp. Scotiabank 2
+Patriotas Liga Dimayor 2
+Al Fateh ALJ League 2
+Strømsgodset IF Tippeligaen 2
+Jeonnam Dragons K LEAGUE Classic 2
+Jaguares Liga Dimayor 2
+Royal Mouscron Liga Belga 2
+Tours FC Ligue 2 2
+Östersunds FK Allsvenskan 2
+Valenciennes FC Ligue 2 2
+Cham. Niortais Ligue 2 2
+Aarhus GF Alka Superliga 2
+Patronato Primera División 2
+Deportivo Pasto Liga Dimayor 2
+Ross County Scottish Prem 2
+Go Ahead Eagles Eredivisie 2
+Temperley Primera División 2
+Oxford United Football League 1 2
+Stade Lavallois Ligue 2 2
+US Orléans Ligue 2 2
+Piast Gliwice Ekstraklasa 2
+Quilmes Primera División 2
+Al Shabab ALJ League 2
+Mar del Plata Primera División 2
+Rafaela Primera División 2
+Clermont Foot Ligue 2 2
+Atlético Huila Liga Dimayor 2
+Unión Primera División 2
+Korona Kielce Ekstraklasa 2
+CD Cobresal Camp. Scotiabank 2
+Al Qadisiyah ALJ League 2
+Bury Football League 1 2
+Randers FC Alka Superliga 2
+Melbourne City Hyundai A-League 2
+Aalesunds FK Tippeligaen 2
+Termalica Ekstraklasa 2
+Inverness CT Scottish Prem 2
+Millwall Football League 1 2
+Aalborg BK Alka Superliga 2
+Latina Serie B 2
+Amiens SC Ligue 2 2
+Cittadella Serie B 2
+WS Wanderers Hyundai A-League 2
+FC Luzern Raiffeisen SL 2
+Rochdale Football League 1 2
+MK Dons Football League 1 2
+FC Nordsjælland Alka Superliga 2
+San Luis Camp. Scotiabank 2
+Bourg-Péronnas Ligue 2 2
+St. Johnstone Scottish Prem 2
+SønderjyskE Alka Superliga 2
+Sarpsborg 08 FF Tippeligaen 2
+Southend United Football League 1 2
+Scunthorpe Utd Football League 1 2
+Seongnam FC K LEAGUE Classic 2
+Bradford City Football League 1 2
+Incheon United K LEAGUE Classic 2
+Bahía Blanca Primera División 2
+Port Vale Football League 1 2
+Al Raed ALJ League 1.5
+Ventforet Kofu Japan J1 League (1) 1.5
+Omiya Ardija Japan J1 League (1) 1.5
+Kilmarnock Scottish Prem 1.5
+Al Taawoun ALJ League 1.5
+Well. Phoenix Hyundai A-League 1.5
+Cortuluá Liga Dimayor 1.5
+Stabæk Fotball Tippeligaen 1.5
+Notts County Football League 2 1.5
+Odense BK Alka Superliga 1.5
+Al-Ettifaq ALJ League 1.5
+Górnik Łęczna Ekstraklasa 1.5
+Lyngby BK Alka Superliga 1.5
+SV Mattersburg Ö. Bundesliga 1.5
+Doncaster Football League 2 1.5
+Admira Wacker Ö. Bundesliga 1.5
+Örebro SK Allsvenskan 1.5
+Partick Thistle Scottish Prem 1.5
+FC Lausanne Raiffeisen SL 1.5
+AFC Wimbledon Football League 1 1.5
+Helsingborgs IF Allsvenskan 1.5
+Northampton Football League 1 1.5
+Adelaide United Hyundai A-League 1.5
+Portsmouth Football League 2 1.5
+Ruch Chorzów Ekstraklasa 1.5
+Wolfsberger AC Ö. Bundesliga 1.5
+Oldham Athletic Football League 1 1.5
+Boyacá Chicó Liga Dimayor 1.5
+SCR Altach Ö. Bundesliga 1.5
+AC Horsens Alka Superliga 1.5
+Coventry City Football League 1 1.5
+Walsall Football League 1 1.5
+Arka Gdynia Ekstraklasa 1.5
+Viking FK Tippeligaen 1.5
+SV Ried Ö. Bundesliga 1.5
+FK Haugesund Tippeligaen 1.5
+Suwon FC K LEAGUE Classic 1.5
+Peterborough Football League 1 1.5
+GwangJu FC K LEAGUE Classic 1.5
+Fleetwood Town Football League 1 1.5
+Envigado Liga Dimayor 1.5
+Chesterfield Football League 1 1.5
+FC Lugano Raiffeisen SL 1.5
+Swindon Town Football League 1 1.5
+Esbjerg fB Alka Superliga 1.5
+Al Khaleej ALJ League 1.5
+Dundee FC Scottish Prem 1.5
+Exeter City Football League 2 1.5
+Vegalta Sendai Japan J1 League (1) 1.5
+Plymouth Argyle Football League 2 1.5
+Shonan Bellmare Japan J1 League (1) 1.5
+Iwata Japan J1 League (1) 1.5
+Cambridge Utd Football League 2 1.5
+Al Wehda ALJ League 1.5
+Bristol Rovers Football League 1 1.5
+Wisła Płock Ekstraklasa 1.5
+Tromsø IL Tippeligaen 1.5
+HJK Helsinki Resto do Mundo 1.5
+Carlisle United Football League 2 1.5
+Hamilton Scottish Prem 1.5
+Mansfield Town Football League 2 1.5
+Gillingham Football League 1 1.5
+Jönköpings Södra IF Allsvenskan 1.5
+Wycombe Football League 2 1.5
+Shrewsbury Football League 1 1.5
+FC Tom Tomsk Liga Russa 1.5
+Blackpool Football League 2 1.5
+Lillestrøm SK Tippeligaen 1.5
+Colchester Football League 2 1.5
+Al Faisaly ALJ League 1
+Motherwell Scottish Prem 1
+Crawley Town Football League 2 1
+Silkeborg IF Alka Superliga 1
+Newcastle Jets Hyundai A-League 1
+SKN St. Pölten Ö. Bundesliga 1
+Viborg FF Alka Superliga 1
+Albirex Niigata Japan J1 League (1) 1
+FC Vaduz Raiffeisen SL 1
+Luton Town Football League 2 1
+Central Coast Hyundai A-League 1
+FC Thun Raiffeisen SL 1
+IK Start Tippeligaen 1
+Sogndal Tippeligaen 1
+GIF Sundsvall Allsvenskan 1
+Al Batin ALJ League 1
+Leyton Orient Football League 2 1
+Dundalk SSE Airtricity Lge 1
+Yeovil Town Football League 2 1
+Avispa Fukuoka Japan J1 League (1) 1
+Cork City SSE Airtricity Lge 1
+Stevenage Football League 2 1
+Accrington Football League 2 1
+Newport County Football League 2 1
+Grimsby Town Football League 2 1
+Barnet Football League 2 1
+Falkenbergs FF Allsvenskan 1
+St. Pats SSE Airtricity Lge 1
+Crewe Alexandra Football League 2 1
+Cheltenham Town Football League 2 1
+Hartlepool Football League 2 1
+FK Bodø/Glimt Tippeligaen 1
+Shamrock Rovers SSE Airtricity Lge 1
+Nagoya Japan J1 League (1) 0.5
+Fortaleza FC Liga Dimayor 0.5
+Gefle IF Allsvenskan 0.5
+Morecambe Football League 2 0.5
+Derry City SSE Airtricity Lge 0.5
+Sligo Rovers SSE Airtricity Lge 0.5
+Bohemian FC SSE Airtricity Lge 0.5
+Bray Wanderers SSE Airtricity Lge 0.5
+Finn Harps SSE Airtricity Lge 0.5
+Galway United SSE Airtricity Lge 0.5
+Longford Town SSE Airtricity Lge 0.5
+Wexford Youths SSE Airtricity Lge 0.5
+Jog. Livres Jog. Livres 0.5
