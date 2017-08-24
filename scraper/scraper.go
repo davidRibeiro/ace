@@ -1,7 +1,7 @@
 package scraper
 
 import (
-	_ "ace/database"
+	u "ace/utils"
 	"fmt"
 	"golang.org/x/net/html"
 	"net/http"
@@ -54,10 +54,12 @@ func scrapRow(doc *html.Tokenizer) *html.Tokenizer {
 	stars := 0.0
 	for tokenType := doc.Next(); tokenType != html.ErrorToken; tokenType = doc.Next() {
 		token := doc.Token()
+		// send info to service to create team and, if needed, league entity
 		if token.Data == "tr" && token.Type == html.EndTagToken {
-			fmt.Println(team, league, stars)
+			u.Save(team, league, stars)
 			return doc
 		}
+		// save team / league name
 		if token.Type == html.TextToken {
 			if team == "" {
 				team = token.String()
@@ -65,6 +67,7 @@ func scrapRow(doc *html.Tokenizer) *html.Tokenizer {
 				league = token.String()
 			}
 		}
+		// save stars
 		if token.Data == "i" && token.Type == html.StartTagToken {
 			for _, i := range token.Attr {
 				if strings.Contains(i.Val, "fa-star-o") {
